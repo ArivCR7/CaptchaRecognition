@@ -7,7 +7,7 @@ Everyone hates CAPTCHAs. Isn’t it? Those annoying characters in the image you 
 # Previous Works on Captcha Recognition:
 Earlier, the AI community developers use individual character detection and recognition and then finally append the recognized characters to form the actual text. This approach was in practice till the advent of CTC loss.
 
-![alt text]
+![alt text](https://github.com/ArivCR7/CaptchaRecognition/blob/master/input/1_4AZO0vgnZXnlEgQZYeJ2EQ.png)
 
 ![alt text]
 
