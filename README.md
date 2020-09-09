@@ -7,15 +7,15 @@ Everyone hates CAPTCHAs. Isn’t it? Those annoying characters in the image you 
 # Previous Works on Captcha Recognition:
 Earlier, the AI community developers use individual character detection and recognition and then finally append the recognized characters to form the actual text. This approach was in practice till the advent of CTC loss.
 
-![alt text](https://github.com/ArivCR7/CaptchaRecognition/blob/master/input/1_4AZO0vgnZXnlEgQZYeJ2EQ.png)
+![alt text](https://github.com/ArivCR7/CaptchaRecognition/blob/master/input/1_ehE02z5AzBv1zt3UExB2_w.png)
 
-![alt text]
+![alt text](https://github.com/ArivCR7/CaptchaRecognition/blob/master/input/1_4AZO0vgnZXnlEgQZYeJ2EQ.png)
 
 # Let’s use CRNN + CTC loss to solve the problem in one-go:
 We’ll see how we can recognize the entire text in one go using Convolutional Recurrent Neural Net architecture with Connectionist Temporal Classification loss function.
 
 # Overview of the architecture:
-![alt text]
+![alt text](https://github.com/ArivCR7/CaptchaRecognition/blob/master/input/Screen-Shot-2019-08-13-at-2.07.18-AM.png)
 
 # DATA
 Captcha images were downloaded from a repository: https://github.com/AakashKumarNain/CaptchaCracker
